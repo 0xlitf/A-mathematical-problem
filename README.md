@@ -6,7 +6,7 @@ Q:
   
   x1 x2 ... xn belongs to nonnegative integer
   
-  x1 > x2 > x3 > ... > xn
+  x1 >= x2 >= x3 >= ... >= xn
   
   x1 + x2 + x3 + ... + xn = n
   
